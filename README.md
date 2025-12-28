@@ -3,6 +3,9 @@
 ## 📌 Project Overview
 This project demonstrates an end-to-end Data Integration (ETL) pipeline designed for the insurance industry. Using **Informatica Intelligent Cloud Services (IICS)** and **Oracle SQL**, I built a solution that automates data cleansing, detects high-risk fraudulent claims, and generates  Payment Analytics .
 
+<img width="948" height="276" alt="🛠 Tech Stack - visual selection" src="https://github.com/user-attachments/assets/07b77998-89e1-4873-9000-cccb33365791" />
+
+
 ## 🛠 Tech Stack
 * **Source Database:** Oracle 19c (Relational)
 * **ETL Tool:** Informatica Intelligent Cloud Services (IICS) - Cloud Data Integration
