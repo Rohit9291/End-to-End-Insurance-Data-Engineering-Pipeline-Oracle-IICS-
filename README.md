@@ -1,10 +1,10 @@
 # Insurance Data Engineering Pipeline: Oracle to CSV via IICS
 
 ## 📌 Project Overview
-This project demonstrates an end-to-end Data Integration (ETL) pipeline designed for the insurance industry. Using **Informatica Intelligent Cloud Services (IICS)** and **Oracle SQL**, I built a solution that automates data cleansing, detects high-risk fraudulent claims, and generates business-ready delinquency reports.
+This project demonstrates an end-to-end Data Integration (ETL) pipeline designed for the insurance industry. Using **Informatica Intelligent Cloud Services (IICS)** and **Oracle SQL**, I built a solution that automates data cleansing, detects high-risk fraudulent claims, and generates  Payment Analytics .
 
 ## 🛠 Tech Stack
-* **Source Database:** Oracle 19c/21c (Relational)
+* **Source Database:** Oracle 19c (Relational)
 * **ETL Tool:** Informatica Intelligent Cloud Services (IICS) - Cloud Data Integration
 * **Orchestration:** IICS Taskflows
 * **Target:** Flat Files (CSV/Excel compatible)
